@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏼, I'm Gabrielle Niamat</h1>
-<h3 align="center">Aspiring full-stack software developer <img src="https://user-images.githubusercontent.com/79562052/172035602-d091837d-ee34-452d-b184-31cd31794905.png"/></h3>
+<h3 align="center">Aspiring full-stack software developer ![image](https://user-images.githubusercontent.com/79562052/172035616-da34ab7c-4da5-4cdc-b542-d69d5cb9f1d5.png)</h3>
 
 - 📚 Third year CS student at Western University
 - 🌱 Currently learning **NodeJS, MongoDB, MySQL**
