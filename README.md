@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏼, I'm Gabrielle Niamat</h1>
-<h3 align="center">CS student interested in full-stack software engineering</h3>
+<h3 align="center">CS student interested in full-stack software development</h3>
 
 - 🌱 I’m currently learning **NodeJS, MongoDB, MySQL**
 
