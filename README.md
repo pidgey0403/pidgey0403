@@ -1,19 +1,16 @@
-## Hi there 👋🏼, I'm Gabrielle Niamat! 
+## Hey there 👋🏼, I'm Gabrielle Niamat! 
 
-_Third year CS student at [Western University](https://www.uwo.ca/)_  <img src="https://communications.uwo.ca/img/logo_teasers/Stacked_Rev_Full.gif" width="20px" height="30px"/>
+I'm a third year CS student at Western University, currently working as a programming instructor at Alpha Coding. My hometown is Toronto, Ontario 🇨🇦
 
-_Coding instructor at [Alpha Coding](https://alphacoding.com/)_ <img src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" width="50" height="100"/>
-<!--
-**pidgey0403/pidgey0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about learning new things and creating elegant solutions to complex problems. 💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some tools I'm familiar with:
+- ReactJS
+- Redux
+- TypeScript
+
+## Frameworks I'm working on:
+- Angular
+- NodeJS
+- Express
