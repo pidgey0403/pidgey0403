@@ -2,7 +2,7 @@
 
 _Third year CS student at [Western University](https://www.uwo.ca/)_  <img src="https://communications.uwo.ca/img/logo_teasers/Stacked_Rev_Full.gif" width="20px" height="30px"/>
 
-_Coding instructor at [Alpha Coding](https://alphacoding.com/)_ <img src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" width="200" height="100"/>
+_Coding instructor at [Alpha Coding](https://alphacoding.com/)_ <img src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" width="50" height="100"/>
 <!--
 **pidgey0403/pidgey0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
