@@ -6,7 +6,7 @@ I'm passionate about learning new things and creating elegant solutions to compl
 )
 
 ### Currently improving my skills with: 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="30px" height="35px"/>ReactJs
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="35px" height="30px"/>ReactJs
 - Redux
 - TypeScript
 - Angular
