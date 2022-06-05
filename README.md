@@ -1,6 +1,6 @@
 ## Hi there 👋🏼, I'm Gabrielle Niamat! 
 
-_Third year CS student at [Western University](https://www.uwo.ca/)_ <img src="https://communications.uwo.ca/img/logo_teasers/Stacked_Rev_Full.gif"/ width="20px" height="30px">
+_Third year CS student at [Western University](https://www.uwo.ca/)_ <img src="https://communications.uwo.ca/img/logo_teasers/Stacked_Rev_Full.gif" width="20px" height="30px"/>
 
 _Coding instructor at [Alpha Coding](https://alphacoding.com/)_
 <!--
