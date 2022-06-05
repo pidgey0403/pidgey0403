@@ -1,4 +1,4 @@
-### Hi there, I'm Gabrielle Niamat!
+## Hi there 👋🏼, I'm Gabrielle Niamat! 
 
 <!--
 **pidgey0403/pidgey0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
