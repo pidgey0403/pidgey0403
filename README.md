@@ -1,4 +1,4 @@
-## Hey there 👋🏼, I'm Gabrielle Niamat! 
+# Hey there 👋🏼, I'm Gabrielle Niamat! 
 
 I'm a third year CS student at Western University, currently working as a programming instructor at Alpha Coding. My hometown is Toronto, Ontario 🇨🇦
 
@@ -10,7 +10,7 @@ I'm passionate about learning new things and creating elegant solutions to compl
 - Redux
 - TypeScript
 
-## Frameworks I'm working on:
+### Frameworks I'm working on:
 - Angular
 - NodeJS
 - Express
