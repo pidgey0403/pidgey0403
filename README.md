@@ -1,8 +1,8 @@
 ## Hi there 👋🏼, I'm Gabrielle Niamat! 
 
-_Third year CS student at Western University_ <img src="https://communications.uwo.ca/img/logo_teasers/Stacked_Rev_Full.gif" width="40" height="40" />
+_Third year CS student at [Western University](https://www.uwo.ca/)_ <img src="https://communications.uwo.ca/img/logo_teasers/Stacked_Rev_Full.gif"/>
 
-_Coding instructor at Alpha Coding_
+_Coding instructor at [Alpha Coding](https://alphacoding.com/)_
 <!--
 **pidgey0403/pidgey0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
