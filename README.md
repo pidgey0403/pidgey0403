@@ -15,4 +15,4 @@ I've been fascinated with coding, artifical intelligence, virtual reality, and a
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pidgey0403&show_icons=true&locale=en&layout=compact" alt="pidgey0403" /></p>
 
-## Feel free to reach out on [Linkedin](https://www.linkedin.com/in/gabrielle-niamat/) and follow me here on [GitHub](https://github.com/pidgey0403)
+Feel free to reach out on [Linkedin](https://www.linkedin.com/in/gabrielle-niamat/) and follow me here on [GitHub](https://github.com/pidgey0403)
