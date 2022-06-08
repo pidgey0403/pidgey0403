@@ -5,7 +5,7 @@
 
 - 📚 Third year CS student at Western University
 - 💼 Coding instructor at Alpha Coding
-- 🇨🇦 Torontonian at heart
+- 🇨🇦 Torontonian
 - 🌱 Currently learning **NodeJS, MongoDB, MySQL**
 
 I've been fascinated with artifical intelligence, virtual reality, and anything and everything sci-fi related since my early-teens! I'm passionate about learning new frameworks and languages, and even more passionate about using my knowledge to elegantly solve complex problems.
