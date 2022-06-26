@@ -4,7 +4,6 @@
 <p align="center"><img align="center" src="https://user-images.githubusercontent.com/52351749/127750424-29cad6c0-3f84-4009-b243-e611c6153a03.gif" width="100" height="100"/></p>
 
 - 📚 Third year CS student at Western University
-- 💼 Coding instructor at Alpha Coding
 - 📍 Toronto, Canada
 - 🌱 Currently learning **NodeJS, MongoDB, MySQL**
 
