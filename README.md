@@ -26,8 +26,8 @@ I've been fascinated with artifical intelligence, virtual reality, and anything 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pidgey0403&show_icons=true&locale=en&layout=compact&langs_count=10&theme=tokyonight" alt="pidgey0403" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pidgey0403&show_icons=true&locale=en&layout=compact&langs_count=10" alt="pidgey0403" /></p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pidgey0403&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pidgey0403&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/gabrielle-niamat/) and follow me here on [GitHub](https://github.com/pidgey0403) ❤️
