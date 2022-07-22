@@ -4,7 +4,7 @@
 <p align="center"><img align="center" src="https://user-images.githubusercontent.com/52351749/127750424-29cad6c0-3f84-4009-b243-e611c6153a03.gif" width="100" height="100"/></p>
 
 - 📚 Third year Computer Science and Global Justice student at Western University
-- 💼 Junior Software Engineer at [Augmentr](https://www.linkedin.com/company/augmentr/)
+- 💼 Software Engineer Intern at [Augmentr](https://www.linkedin.com/company/augmentr/)
 - 🌱 Currently learning **NodeJS, Express, MongoDB, MySQL**
 
 I've been fascinated with artifical intelligence, virtual reality, and anything and everything sci-fi related since my early-teens! I'm passionate about learning new frameworks and languages, and even more passionate about using my knowledge to elegantly solve complex problems.
