@@ -9,9 +9,4 @@
 
 I've been fascinated with artifical intelligence, virtual reality, and anything and everything sci-fi related since my early-teens! I'm passionate about learning new frameworks and languages, and even more passionate about using my knowledge to elegantly solve complex problems.
 
-<div align="center">
-
-![Gabbys's GitHub stats](https://github-readme-stats.vercel.app/api?username=pidgey0403&count_private=true&theme=onedark&show_icons=true)
-</div>
-
 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/gabrielle-niamat/) and follow me here on [GitHub](https://github.com/pidgey0403) ❤️
