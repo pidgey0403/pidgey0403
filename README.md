@@ -5,7 +5,7 @@
 
 - 📚 Third year Computer Science and Global Justice student at Western University
 - 💼 Software Engineer Intern at [Augmentr](https://www.linkedin.com/company/augmentr/)
-- 🌱 Currently learning **Prisma, PostgreSQL, NextJS, GraphQL**
+- 🌱 Currently learning **Prisma, PostgreSQL, NestJS, GraphQL**
 
 I've been fascinated with artifical intelligence, virtual reality, and anything and everything sci-fi related since my early-teens! I'm passionate about learning new frameworks and languages, and even more passionate about using my knowledge to elegantly solve complex problems.
 
