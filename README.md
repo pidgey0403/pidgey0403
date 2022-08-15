@@ -7,6 +7,6 @@
 - 💼 Software Engineer Intern at [Augmentr](https://www.linkedin.com/company/augmentr/)
 - 🌱 Currently learning **Prisma, PostgreSQL, NestJS, GraphQL**
 
-I've been fascinated with artifical intelligence, virtual reality, and anything and everything sci-fi related since my early-teens! I'm passionate about learning new frameworks and languages, and even more passionate about using my knowledge to elegantly solve complex problems.
+I've been fascinated with artifical intelligence, virtual reality, and anything and everything sci-fi related since my early-teens! I'm passionate about learning new frameworks and languages, and even more passionate about using my knowledge to elegantly solve complex problems. My personal interests lie in full-stack web development, AI and machine learning, and project management. 
 
 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/gabrielle-niamat/) and follow me here on [GitHub](https://github.com/pidgey0403) ❤️
