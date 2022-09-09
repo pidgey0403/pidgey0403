@@ -6,7 +6,6 @@
 - 📚 Third year Computer Science student at Western University
 - 💼 Software Engineer Intern at [Augmentr](https://www.linkedin.com/company/augmentr/) and Open Source Developer Fellow at [MLH Fellowship](https://fellowship.mlh.io/)
 - 💡 Interested in full-stack development, DevOps, and project management
-- 🌱 Currently learning **Prisma, PostgreSQL, NestJS, GraphQL**
 
 I've been fascinated with artifical intelligence, virtual reality, and anything and everything sci-fi related since my early-teens! I'm passionate about learning new frameworks and languages, and even more passionate about using my knowledge to elegantly solve complex problems. My personal interests lie in full-stack web development, AI and machine learning, and project management. 
 
