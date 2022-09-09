@@ -5,7 +5,7 @@
 
 - 📚 Third year Computer Science student at Western University
 - 💼 Software Engineer Intern at [Augmentr](https://www.linkedin.com/company/augmentr/) and Open Source Developer Fellow at [MLH Fellowship](https://fellowship.mlh.io/)
-- 🎗 Project manager at Western AI and Backend Engineer at Easterseals (in partnership with [Develop for Good](https://www.developforgood.org/))
+- 🎗 Project Manager at Western AI and Backend Engineer at Easterseals (in partnership with [Develop for Good](https://www.developforgood.org/))
 - 💡 Interested in full-stack development, site reliability engineering, and project management
 
 I've been fascinated with artifical intelligence, virtual reality, and anything and everything sci-fi related since my early-teens! I'm passionate about learning new frameworks and languages, and even more passionate about using my knowledge to elegantly solve complex problems. I also love creatively solving real-world challenges to implement solutions that are efficient and purposeful. 
