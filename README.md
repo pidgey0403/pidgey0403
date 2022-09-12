@@ -4,7 +4,7 @@
 <p align="center"><img align="center" src="https://user-images.githubusercontent.com/52351749/127750424-29cad6c0-3f84-4009-b243-e611c6153a03.gif" width="100" height="100"/></p>
 
 - 📚 Third year Computer Science student at Western University
-- 💼 Software Engineer Intern at [Augmentr](https://www.linkedin.com/company/augmentr/) and Open Source Developer Fellow at [MLH Fellowship](https://fellowship.mlh.io/)
+- 💼 Software Engineer Intern at [Augmentr](https://www.linkedin.com/company/augmentr/) and Software Engineering Fellow at [MLH Fellowship](https://fellowship.mlh.io/)
 - 🎗 Project Manager at Western AI and Backend Engineer at Easterseals (in partnership with [Develop for Good](https://www.developforgood.org/))
 - 💡 Interested in full-stack development, site reliability engineering, and project management
 
