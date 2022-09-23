@@ -5,7 +5,7 @@
 
 - 📚 Third year Computer Science student at Western University
 - 💼 Software Engineer Intern at [G-Research](https://www.gresearch.co.uk/) (in partnership with the [MLH Fellowship](https://fellowship.mlh.io/)). Previously a Software Engineer Intern at [Augmentr](https://www.linkedin.com/company/augmentr/)
-- 🎗 Project Manager at Western AI and Backend Engineer at Easterseals (in partnership with [Develop for Good](https://www.developforgood.org/))
+- 🎗 Backend Engineer at Easterseals (in partnership with [Develop for Good](https://www.developforgood.org/))
 - 💡 Interested in full-stack development, site reliability engineering, and project management
 
 I've been fascinated with artifical intelligence, virtual reality, and anything and everything sci-fi related since my early-teens! I'm passionate about learning new frameworks and languages, and even more passionate about using my knowledge to elegantly solve complex problems. I also love creatively solving real-world challenges to implement solutions that are efficient and purposeful. 
