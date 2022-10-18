@@ -3,11 +3,10 @@
 <h3 align="center">Aspiring full-stack software engineer</h3> 
 <p align="center"><img align="center" src="https://i.imgur.com/IkdLIvu.gif" width="250px" height="190px"/></p>
 
-- 📚 Third year Computer Science student at Western University
-- 🕵️‍♀️ Seeking summer 2023 Software Engineer internships
+- 📚 Third year Computer Science student at [Western University](https://www.uwo.ca/).
+- 🕵️‍♀️ Seeking summer 2023 Software Engineer internships.
 - 💼 Current Software Engineer Intern at [G-Research](https://www.gresearch.co.uk/) (in partnership with the [MLH Fellowship](https://fellowship.mlh.io/)). Previously a Software Engineer Intern at [Augmentr](https://www.linkedin.com/company/augmentr/).
-- 💡 Interested in full-stack development and site reliability engineering
-
+- 💡 Interested in full-stack development and site reliability engineering.
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
