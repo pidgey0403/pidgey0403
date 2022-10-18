@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Gabrielle Niamat 👋🏼 </h1>
 
 <h3 align="center">Aspiring full-stack software engineer</h3> 
-<p align="center"><img align="center" src="https://user-images.githubusercontent.com/52351749/127750424-29cad6c0-3f84-4009-b243-e611c6153a03.gif" width="100" height="100"/></p>
+<p align="center"><img align="center" src="https://i.imgur.com/IkdLIvu.gif" width="250px" height="190px"/></p>
 
 - 📚 Third year Computer Science student at Western University
 - 🕵️‍♀️ Seeking summer 2023 Software Engineer internships
