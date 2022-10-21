@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Gabrielle Niamat 👋🏼 </h1>
+<h1 align="center">Hey, I'm Gabby 👋🏼 </h1>
 
 <h3 align="center">Aspiring full-stack software engineer</h3> 
 <p align="center"><img align="center" src="https://i.imgur.com/IkdLIvu.gif" width="250px" height="190px"/></p>
