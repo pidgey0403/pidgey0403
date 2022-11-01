@@ -1,7 +1,12 @@
 <h1 align="center">Hey, I'm Gabby 👋🏼 </h1>
 
+
+
 <h3 align="center">Aspiring Software Engineer / Site Reliability Engineer 💫</h3> 
-<p align="center"><img align="center" src="https://i.imgur.com/IkdLIvu.gif" width="250px" height="190px"/></p>
+<p align="center">
+<!--   <img align="center" src="https://i.imgur.com/IkdLIvu.gif" width="250px" height="190px"/> -->
+  <img align="center" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" height="100%" width="20%" />
+</p>
 
 - 📚 Third year Computer Science student at [Western University](https://www.uwo.ca/).
 - 🕵️‍♀️ Seeking summer 2023 Software Engineer internships.
