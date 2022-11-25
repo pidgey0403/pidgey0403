@@ -33,7 +33,14 @@
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    </th>
   </tr>
 </table>
+
+<div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pidgey0403&layout=compact&theme=transparent">
+      <img src="https://github-readme-stats.vercel.app/api?username=pidgey0403&count_private=true&show_icons=true&theme=transparent">
+</div>
+
 
 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/gabrielle-niamat/) and follow me here on [GitHub](https://github.com/pidgey0403) ❤️
