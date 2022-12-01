@@ -37,10 +37,10 @@
   </tr>
 </table>
 
-<div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=pidgey0403&count_private=true&show_icons=true&theme=transparent">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pidgey0403&layout=compact&theme=transparent">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pidgey0403&count_private=true&show_icons=true&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pidgey0403&layout=compact&theme=transparent">
+</p>
 
 
 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/gabrielle-niamat/) and follow me here on [GitHub](https://github.com/pidgey0403) ❤️
