@@ -7,8 +7,8 @@
 </p>
 
 - 📚 Third year Computer Science student at [Western University](https://www.uwo.ca/).
-- 🕵️‍♀️ Seeking summer 2023 Software Engineer internships - frontend, backend, and fullstack roles!
-- 💼 Current Software Engineer Intern at [G-Research](https://www.linkedin.com/company/g-research/) (in partnership with the [MLH Fellowship](https://fellowship.mlh.io/)). Previously a Software Engineer Intern at [Augmentr](https://www.linkedin.com/company/augmentr/).
+- 🔎 Seeking summer 2023 Software Engineer internships - frontend, backend, and fullstack roles! 
+- 💼 Returning Software Engineer Intern at [G-Research](https://www.linkedin.com/company/g-research/) for the Spring 2023 batch of the [MLH Fellowship](https://fellowship.mlh.io/)!
 - 💡 Interested in full-stack development and site reliability engineering.
 
 <table align="center">
