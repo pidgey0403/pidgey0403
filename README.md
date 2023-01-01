@@ -2,7 +2,7 @@
 
 <h3 align="center">Aspiring Software Engineer / Site Reliability Engineer 💫</h3> 
 <p align="center">
-  <img align="center" src="https://i.imgur.com/IkdLIvu.gif" width="250px" height="190px"/>
+  <img align="center" src="https://i.imgur.com/IkdLIvu.gif" width="200px" height="150px"/>
 </p>
 
 - 📚 Third year Computer Science student at [Western University](https://www.uwo.ca/)
