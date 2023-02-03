@@ -1,14 +1,14 @@
 <h1 align="center">Hey there, I'm Gabby 👋🏼 </h1>
 
-<h3 align="center">Aspiring Software Engineer / Site Reliability Engineer 💫</h3> 
+<h3 align="center">Aspiring Software Engineer 💫</h3> 
 <p align="center">
   <img align="center" src="https://i.imgur.com/IkdLIvu.gif" width="200px" height="150px"/>
 </p>
 
 - 📚 Third year Computer Science student at [Western University](https://www.uwo.ca/)
 - 🔎 Seeking summer 2023 Software Engineer internships in fullstack web development
-- 💼 Returning Software Engineer Intern at [G-Research](https://www.linkedin.com/company/g-research/) for Spring 2023 with the [MLH Fellowship](https://fellowship.mlh.io/)
-- 💡 Interested in full-stack development and site reliability engineering
+- 💼 Software Engineer Intern at [G-Research](https://www.linkedin.com/company/g-research/) for Spring 2023 ([MLH Fellowship](https://fellowship.mlh.io/))
+- 💡 Interested in full-stack web development, DevOps, and AI/ML
 
 
 <h3 align="center">My Tech Stack 💻</h3> 
