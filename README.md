@@ -6,7 +6,6 @@
 </p>
 
 - 📚 Third year Computer Science student at [Western University](https://www.uwo.ca/)
-- 🔎 Seeking summer 2023 Software Engineer internships in fullstack web development
 - 💼 Software Engineer Intern at [G-Research](https://www.linkedin.com/company/g-research/) for Spring 2023 ([MLH Fellowship](https://fellowship.mlh.io/))
 - 💡 Interested in full-stack web development, DevOps, and AI/ML
 
