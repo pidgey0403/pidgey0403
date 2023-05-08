@@ -5,8 +5,8 @@
   <img align="center" src="https://i.imgur.com/IkdLIvu.gif" width="200px" height="150px"/>
 </p>
 
-- 📚 Third year Computer Science student at [Western University](https://www.uwo.ca/)
-- 💼 Software Engineer Intern at [G-Research](https://www.linkedin.com/company/g-research/) for Spring 2023 ([MLH Fellowship](https://fellowship.mlh.io/))
+- 📚 Fourth year Computer Science student at [Western University](https://www.uwo.ca/)
+- 💼 Prev Software Engineer Intern at [G-Research](https://www.linkedin.com/company/g-research/)
 - 💡 Interested in full-stack web development, DevOps, and AI/ML
 
 
