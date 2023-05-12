@@ -7,7 +7,7 @@
 
 - 📚 Fourth year Computer Science student at [Western University](https://www.uwo.ca/)
 - 💼 Prev Software Engineer Intern at [G-Research](https://www.linkedin.com/company/g-research/)
-- 💡 Interested in full-stack web development, DevOps, and AI/ML
+- 💡 Looking for full-time and internship roles in fullstack web development
 
 
 <h3 align="center">My Tech Stack 💻</h3> 
