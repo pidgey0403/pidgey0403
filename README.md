@@ -1,13 +1,12 @@
 <h1 align="center">Hey there, I'm Gabby 👋🏼 </h1>
 
-<h3 align="center">Aspiring Software Engineer 💫</h3> 
+<h3 align="center">Computer Science @ Western University💫</h3> 
 <p align="center">
   <img align="center" src="https://i.imgur.com/IkdLIvu.gif" width="200px" height="150px"/>
 </p>
 
-- 📚 Fourth year Computer Science student at [Western University](https://www.uwo.ca/)
-- 💼 Prev Software Engineer Intern at [G-Research](https://www.linkedin.com/company/g-research/)
-- 💡 Looking for full-time and internship roles in fullstack web development
+- 💼 Incoming Software Engineer Intern at [Clio](https://www.clio.com/)
+- 🕰️ Prev Software Engineer Intern at [G-Research](https://www.linkedin.com/company/g-research/) and [Augmentr](https://www.augmentr.io/)
 
 
 <h3 align="center">My Tech Stack 💻</h3> 
