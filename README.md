@@ -5,8 +5,8 @@
   <img align="center" src="https://i.imgur.com/IkdLIvu.gif" width="200px" height="150px"/>
 </p>
 
-- 💼 Incoming Software Engineer Intern at [Clio](https://www.clio.com/)
-- 🕰️ Prev Software Engineer Intern at [G-Research](https://www.linkedin.com/company/g-research/) and [Augmentr](https://www.augmentr.io/)
+- 💼 Incoming Software Developer Intern at [Clio](https://www.clio.com/)
+- 🕰️ Prev Software Developer Intern at [G-Research](https://www.linkedin.com/company/g-research/) and [Augmentr](https://www.augmentr.io/)
 
 
 <h3 align="center">My Tech Stack 💻</h3> 
