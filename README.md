@@ -5,7 +5,7 @@
   <img align="center" src="https://i.imgur.com/IkdLIvu.gif" width="200px" height="150px"/>
 </p>
 
-- 💼 Incoming Software Developer Intern at [Clio](https://www.clio.com/)
+- 💼 Software Developer Co-op at [Clio](https://www.clio.com/)
 - 🕰️ Prev Software Developer Intern at [G-Research](https://www.linkedin.com/company/g-research/) and [Augmentr](https://www.augmentr.io/)
 
 
