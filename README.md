@@ -1,12 +1,11 @@
 <h1 align="center">Hey there, I'm Gabby 👋🏼 </h1>
 
-<h3 align="center">Computer Science @ Western University💫</h3> 
+<h3 align="center">New Graduate - Computer Science @ Western University💫</h3> 
 <p align="center">
   <img align="center" src="https://i.imgur.com/IkdLIvu.gif" width="200px" height="150px"/>
 </p>
 
-- 💼 Software Developer Co-op at [Clio](https://www.clio.com/)
-- 🕰️ Prev Software Developer Intern at [G-Research](https://www.linkedin.com/company/g-research/) and [Augmentr](https://www.augmentr.io/)
+- 💼 Prev Software Developer Co-op at [Clio](https://www.clio.com/), [G-Research](https://www.linkedin.com/company/g-research/) and [Augmentr](https://www.augmentr.io/)
 
 
 <h3 align="center">My Tech Stack 💻</h3> 
