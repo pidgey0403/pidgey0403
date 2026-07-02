@@ -1,0 +1,17 @@
+name: Latest dev.to Posts
+on:
+  schedule:
+    - cron: '0 0 * * *'  
+  workflow_dispatch:       
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/pidgey0403"
+          max_post_count: 3
+          template: "[$title]($url)"
