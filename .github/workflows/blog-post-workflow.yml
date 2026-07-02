@@ -14,4 +14,4 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/pidgey0403"
           max_post_count: 3
-          template: "[$title]($url)"
+          template: "- [$title]($url)$newline"
