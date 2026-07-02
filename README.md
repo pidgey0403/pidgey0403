@@ -34,9 +34,7 @@ const gabby = {
 
 ### ✍🏼 Latest posts on dev.to
 
-<!-- BLOG-POST-LIST:START -->
-> 🔄 *Auto-updated via GitHub Actions — check out my full blog at [dev.to/pidgey0403](https://dev.to/pidgey0403)*
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[I Signed Up for a Software Engineer Mentor. I Got an AppSec Engineer Instead.](https://dev.to/pidgey0403/i-signed-up-for-a-software-engineer-mentor-i-got-an-appsec-engineer-instead-32pd)[Navigating the New Grad SWE Job Hunt: System Design Interviews - Part 1](https://dev.to/pidgey0403/navigating-the-new-grad-swe-job-hunt-system-design-interviews-pt-1-2b5)[Navigating the New Grad SWE Job Hunt: Behavioural Interviews](https://dev.to/pidgey0403/tips-for-navigating-the-new-gradjunior-swe-job-hunt-part-2-behavioural-interviews-3pmd)<!-- BLOG-POST-LIST:END -->
 
 ---
 
