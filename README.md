@@ -35,7 +35,7 @@ const gabby = {
 ### ✍🏼 Latest posts on dev.to
 
 <!-- BLOG-POST-LIST:START -->
-[I Signed Up for a Software Engineer Mentor. I Got an AppSec Engineer Instead.](https://dev.to/pidgey0403/i-signed-up-for-a-software-engineer-mentor-i-got-an-appsec-engineer-instead-32pd)<br/>[Navigating the New Grad SWE Job Hunt: System Design Interviews - Part 1](https://dev.to/pidgey0403/navigating-the-new-grad-swe-job-hunt-system-design-interviews-pt-1-2b5)<br/>[Navigating the New Grad SWE Job Hunt: Behavioural Interviews](https://dev.to/pidgey0403/tips-for-navigating-the-new-gradjunior-swe-job-hunt-part-2-behavioural-interviews-3pmd)<br/>
+`Sat Jun 27 2026 7:57 PM` — [I Signed Up for a Software Engineer Mentor. I Got an AppSec Engineer Instead.](https://dev.to/pidgey0403/i-signed-up-for-a-software-engineer-mentor-i-got-an-appsec-engineer-instead-32pd)<br/>`Tue Jul 01 2025 3:00 PM` — [Navigating the New Grad SWE Job Hunt: System Design Interviews - Part 1](https://dev.to/pidgey0403/navigating-the-new-grad-swe-job-hunt-system-design-interviews-pt-1-2b5)<br/>`Mon Oct 07 2024 12:00 PM` — [Navigating the New Grad SWE Job Hunt: Behavioural Interviews](https://dev.to/pidgey0403/tips-for-navigating-the-new-gradjunior-swe-job-hunt-part-2-behavioural-interviews-3pmd)<br/>
 <!-- BLOG-POST-LIST:END -->
 
 ---
