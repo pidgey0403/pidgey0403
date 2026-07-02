@@ -1,24 +1,45 @@
-<h1 align="center">Hey there, I'm Gabby 👋🏼 </h1>
-
-<h3 align="center">Software Engineer I at State Street 💫</h3> 
+<h1 align="center">Hey there, I'm Gabby 👋🏼</h1>
+<h3 align="center">Software Engineer II @ Relay Financial 💫 </h3>
 <p align="center">
-  <img align="center" src="https://i.imgur.com/IkdLIvu.gif" width="200px" height="150px"/>
+  <img src="https://i.imgur.com/IkdLIvu.gif" width="200px" height="150px"/>
+</p>
+<p align="center">
+  <a href="https://dev.to/pidgey0403"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
+  <a href="https://linkedin.com/in/gabrielle-niamat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:niamat.gabrielle@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://topmate.io/gabrielle_niamat"><img src="https://img.shields.io/badge/Book%20a%20Call-8B5CF6?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Topmate"/></a>
 </p>
 
-<h3 align="center">My Tech Stack 💻</h3> 
-<div align="center">
- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  />
- <img src="https://img.shields.io/badge/springboot-%2320232a.svg?style=for-the-badge&logo=spring&logoColor=green"  />
- <img src="https://img.shields.io/badge/rubyonrails-%2320232a.svg?style=for-the-badge&logo=rubyonrails&logoColor=red"  />
-  
- <br/>
- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
- <br/>
- 
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java" />
- <img src="https://img.shields.io/badge/Ruby-007ACC?style=for-the-badge&logo=ruby" />
- <img src="https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=sql" />
-</div>
+---
+
+### ⭐️ About me
+
+```ts
+const gabby = {
+  location:     "Toronto, ON 🍁",
+  stack:        ["TypeScript", "React", "Redux", "Ruby on Rails", "AWS"],
+  hobbies:      ["FFXIV 🎮", "home workouts 🧘🏽‍♀️", "getting more piercings 🪡"],
+  ask_me_about: ["AI workflows", "startup culture", "breaking into SWE 💌"],
+};
+```
+
+---
+
+### 📡 Status
+- 🚀 **shipping** — outbound payments products on the Spend team @ Relay
+- 📝 **writing** — app sec fundamentals, system design, breaking into tech on [dev.to](https://dev.to/pidgey0403)
+- 📡 **researching** — distributed systems & backend infrastructure
+
+---
+
+### ✍🏼 Latest posts on dev.to
+
+<!-- BLOG-POST-LIST:START -->
+> 🔄 *Auto-updated via GitHub Actions — check out my full blog at [dev.to/pidgey0403](https://dev.to/pidgey0403)*
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pidgey0403&color=ff91a4&style=flat-square&label=profile+views"/>
+</p>
